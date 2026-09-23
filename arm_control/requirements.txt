@@ -1,0 +1,6 @@
+opencv-contrib-python>=4.8
+numpy
+pyserial
+
+# Only needed if OBSTACLE_BACKEND = "tflite" in config.py:
+# tflite-runtime
